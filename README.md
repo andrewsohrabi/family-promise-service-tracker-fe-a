@@ -39,10 +39,6 @@ You can find the deployed project at [a.familypromiseservicetracker.dev/](a.fami
 
 #### Node.js with Postgres
 
-- point one
-- point two
-- point three
-
 # Installation Instructions
 
 create your project repo by forking or using this as a template.
