@@ -41,7 +41,7 @@ You can find the deployed project at [a.familypromiseservicetracker.dev/](a.fami
 
 # Installation Instructions
 
-create your project repo by forking or using this as a template.
+Create your project repo by forking or using this as a template.
 run: `npm install` to download all dependencies.
 run: `npm start` to start the live server. Note: must be running on localhost:3000
 g
